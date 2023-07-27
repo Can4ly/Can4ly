@@ -1,5 +1,4 @@
-<p align="center">👋 Hello there, I’m Nick. <br /> <br />✨ I'm really interested in Project and Product management
-<br /><br />✨ I'm sure, I will manage to do some cool stuff, while I'm here :) If you wanna join - welcome!</p>
+<p align="center">👋 Hello there, I’m Nick. <br /> <br />✨ I'm really interested in IT, IS and management
 
 <p align="right">📫 My contacts here. Feel free to write!<i><br />tg @Can4ly, <br />eritenko.nick@gmail.com</i></p>
 
